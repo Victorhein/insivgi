@@ -1,0 +1,2 @@
+streamlit
+leitura_de_dados
